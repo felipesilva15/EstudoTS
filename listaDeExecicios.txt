@@ -1,0 +1,17 @@
+1- Crie um programa que solicite ao usuário a digitação de um número. Informe então se este número é par ou ímpar. ​
+
+2- Escreva um programa que solicita 10 números e ao final exibe a soma de todos eles. ​
+
+3- Escreva um programa que solicita o nome e a altura de 5 atletas. Ao final da entrada de dados, informe O NOME do atleta mais alto. ​
+
+4- Escreva um programa Typescript que exiba os números pares de 2 a 12 utilizando laços de repetição. ​
+
+5- Solicite que o usuário preencha nomes até que ele digite “sair”. Exiba todos os nomes digitados em sequência. ​
+
+6- Leia 5 valores do usuário. Exiba todos os valores e indique o maior valor. ​
+
+​7- Colete 3 números do usuário, coloque-os em um vetor e exiba-o. Em seguida, modifique o array de forma que a sequência de números fique do contrário (se digitou 1,2,3, exiba 3,2,1) ​
+
+8- Crie uma função que recebe um vetor e um número. A função deverá retornar todos os índices onde esse número aparece no vetor. Crie um vetor com números aleatórios, defina um número e execute a função, imprimindo todos os números e as posições onde o número selecionado aparece. ​
+
+​9- Crie uma função async e outra utilizando ela. ​
